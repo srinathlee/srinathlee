@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)]("https://srinathportfolio.netlify.app/")
 <h1 align="center">Hi 👋, I'm B Srinath</h1>
-<h3 align="center">A passionate Fulstack developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 <img  align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinathlee&label=Profile%20views&color=0e75b6&style=fla" alt="srinathlee" /> </p>
